@@ -1,0 +1,7 @@
+C:\Users\Freliz\Desktop\Basic_C#_Programs\Loop\Loop.DoWhile\Loop.DoWhile\bin\Debug\Loop.DoWhile.exe.config
+C:\Users\Freliz\Desktop\Basic_C#_Programs\Loop\Loop.DoWhile\Loop.DoWhile\bin\Debug\Loop.DoWhile.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\Loop\Loop.DoWhile\Loop.DoWhile\bin\Debug\Loop.DoWhile.pdb
+C:\Users\Freliz\Desktop\Basic_C#_Programs\Loop\Loop.DoWhile\Loop.DoWhile\obj\Debug\Loop.DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\Loop\Loop.DoWhile\Loop.DoWhile\obj\Debug\Loop.DoWhile.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\Loop\Loop.DoWhile\Loop.DoWhile\obj\Debug\Loop.DoWhile.pdb
+C:\Users\Freliz\Desktop\Basic_C#_Programs\Loop\Loop.DoWhile\Loop.DoWhile\obj\Debug\Loop.DoWhile.csproj.AssemblyReference.cache
