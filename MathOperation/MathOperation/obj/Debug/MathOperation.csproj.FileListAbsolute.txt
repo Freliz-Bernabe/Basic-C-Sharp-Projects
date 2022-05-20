@@ -1,0 +1,7 @@
+C:\Users\Freliz\Desktop\Basic_C#_Programs\MathOperation\MathOperation\MathOperation\bin\Debug\MathOperation.exe.config
+C:\Users\Freliz\Desktop\Basic_C#_Programs\MathOperation\MathOperation\MathOperation\bin\Debug\MathOperation.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\MathOperation\MathOperation\MathOperation\bin\Debug\MathOperation.pdb
+C:\Users\Freliz\Desktop\Basic_C#_Programs\MathOperation\MathOperation\MathOperation\obj\Debug\MathOperation.csproj.AssemblyReference.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\MathOperation\MathOperation\MathOperation\obj\Debug\MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\MathOperation\MathOperation\MathOperation\obj\Debug\MathOperation.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\MathOperation\MathOperation\MathOperation\obj\Debug\MathOperation.pdb
