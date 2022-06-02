@@ -1,0 +1,7 @@
+C:\Users\Freliz\Desktop\Basic_C#_Programs\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.csproj.AssemblyReference.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.csproj.CoreCompileInputs.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\PriceQuoteApplication\PriceQuoteApplication\bin\Debug\PriceQuoteApplication.exe.config
+C:\Users\Freliz\Desktop\Basic_C#_Programs\PriceQuoteApplication\PriceQuoteApplication\bin\Debug\PriceQuoteApplication.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\PriceQuoteApplication\PriceQuoteApplication\bin\Debug\PriceQuoteApplication.pdb
+C:\Users\Freliz\Desktop\Basic_C#_Programs\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\PriceQuoteApplication\PriceQuoteApplication\obj\Debug\PriceQuoteApplication.pdb
