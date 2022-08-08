@@ -1,7 +1,0 @@
-C:\Users\Freliz\Desktop\Basic_C#_Programs\Enums\Enums\Enums\bin\Debug\Enums.exe.config
-C:\Users\Freliz\Desktop\Basic_C#_Programs\Enums\Enums\Enums\bin\Debug\Enums.exe
-C:\Users\Freliz\Desktop\Basic_C#_Programs\Enums\Enums\Enums\bin\Debug\Enums.pdb
-C:\Users\Freliz\Desktop\Basic_C#_Programs\Enums\Enums\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
-C:\Users\Freliz\Desktop\Basic_C#_Programs\Enums\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
-C:\Users\Freliz\Desktop\Basic_C#_Programs\Enums\Enums\Enums\obj\Debug\Enums.exe
-C:\Users\Freliz\Desktop\Basic_C#_Programs\Enums\Enums\Enums\obj\Debug\Enums.pdb
