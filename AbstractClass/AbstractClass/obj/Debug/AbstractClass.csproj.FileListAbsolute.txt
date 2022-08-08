@@ -1,0 +1,7 @@
+C:\Users\Freliz\Desktop\Basic_C#_Programs\AbstractClass\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\Freliz\Desktop\Basic_C#_Programs\AbstractClass\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\AbstractClass\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\Freliz\Desktop\Basic_C#_Programs\AbstractClass\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\AbstractClass\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\AbstractClass\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\AbstractClass\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
