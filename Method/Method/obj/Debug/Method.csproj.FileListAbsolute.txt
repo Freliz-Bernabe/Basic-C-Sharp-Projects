@@ -1,0 +1,7 @@
+C:\Users\Freliz\Desktop\Basic_C#_Programs\Method\Method\Method\bin\Debug\Method.exe.config
+C:\Users\Freliz\Desktop\Basic_C#_Programs\Method\Method\Method\bin\Debug\Method.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\Method\Method\Method\bin\Debug\Method.pdb
+C:\Users\Freliz\Desktop\Basic_C#_Programs\Method\Method\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\Method\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\Method\Method\Method\obj\Debug\Method.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\Method\Method\Method\obj\Debug\Method.pdb
