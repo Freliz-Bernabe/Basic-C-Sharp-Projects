@@ -1,0 +1,7 @@
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ExceptionHandling2\ExceptionHandling2\ExceptionHandling2\bin\Debug\ExceptionHandling2.exe.config
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ExceptionHandling2\ExceptionHandling2\ExceptionHandling2\bin\Debug\ExceptionHandling2.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ExceptionHandling2\ExceptionHandling2\ExceptionHandling2\bin\Debug\ExceptionHandling2.pdb
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ExceptionHandling2\ExceptionHandling2\ExceptionHandling2\obj\Debug\ExceptionHandling2.csproj.AssemblyReference.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ExceptionHandling2\ExceptionHandling2\ExceptionHandling2\obj\Debug\ExceptionHandling2.csproj.CoreCompileInputs.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ExceptionHandling2\ExceptionHandling2\ExceptionHandling2\obj\Debug\ExceptionHandling2.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ExceptionHandling2\ExceptionHandling2\ExceptionHandling2\obj\Debug\ExceptionHandling2.pdb
