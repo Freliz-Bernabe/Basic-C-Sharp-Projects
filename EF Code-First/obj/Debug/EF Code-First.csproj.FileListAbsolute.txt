@@ -1,0 +1,2 @@
+C:\Users\Freliz\Desktop\Basic_C#_Programs\EF Code-First\EF Code-First\EF Code-First\obj\Debug\EF Code-First.csproj.AssemblyReference.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\EF Code-First\EF Code-First\EF Code-First\obj\Debug\EF Code-First.csproj.CoreCompileInputs.cache
