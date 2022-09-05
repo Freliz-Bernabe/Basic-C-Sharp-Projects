@@ -1,0 +1,7 @@
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods2\ClassesAndMethods2\ClassesAndMethods2\bin\Debug\ClassesAndMethods2.exe.config
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods2\ClassesAndMethods2\ClassesAndMethods2\bin\Debug\ClassesAndMethods2.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods2\ClassesAndMethods2\ClassesAndMethods2\bin\Debug\ClassesAndMethods2.pdb
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods2\ClassesAndMethods2\ClassesAndMethods2\obj\Debug\ClassesAndMethods2.csproj.AssemblyReference.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods2\ClassesAndMethods2\ClassesAndMethods2\obj\Debug\ClassesAndMethods2.csproj.CoreCompileInputs.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods2\ClassesAndMethods2\ClassesAndMethods2\obj\Debug\ClassesAndMethods2.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods2\ClassesAndMethods2\ClassesAndMethods2\obj\Debug\ClassesAndMethods2.pdb
