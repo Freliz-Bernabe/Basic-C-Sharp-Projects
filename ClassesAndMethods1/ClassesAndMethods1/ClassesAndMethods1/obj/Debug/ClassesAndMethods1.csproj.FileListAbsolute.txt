@@ -1,0 +1,7 @@
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods1\ClassesAndMethods1\ClassesAndMethods1\bin\Debug\ClassesAndMethods1.exe.config
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods1\ClassesAndMethods1\ClassesAndMethods1\bin\Debug\ClassesAndMethods1.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods1\ClassesAndMethods1\ClassesAndMethods1\bin\Debug\ClassesAndMethods1.pdb
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods1\ClassesAndMethods1\ClassesAndMethods1\obj\Debug\ClassesAndMethods1.csproj.AssemblyReference.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods1\ClassesAndMethods1\ClassesAndMethods1\obj\Debug\ClassesAndMethods1.csproj.CoreCompileInputs.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods1\ClassesAndMethods1\ClassesAndMethods1\obj\Debug\ClassesAndMethods1.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods1\ClassesAndMethods1\ClassesAndMethods1\obj\Debug\ClassesAndMethods1.pdb
