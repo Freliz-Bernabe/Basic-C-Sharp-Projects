@@ -1,0 +1,7 @@
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods3\ClassesAndMethods3\ClassesAndMethods3\bin\Debug\ClassesAndMethods3.exe.config
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods3\ClassesAndMethods3\ClassesAndMethods3\bin\Debug\ClassesAndMethods3.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods3\ClassesAndMethods3\ClassesAndMethods3\bin\Debug\ClassesAndMethods3.pdb
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods3\ClassesAndMethods3\ClassesAndMethods3\obj\Debug\ClassesAndMethods3.csproj.AssemblyReference.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods3\ClassesAndMethods3\ClassesAndMethods3\obj\Debug\ClassesAndMethods3.csproj.CoreCompileInputs.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods3\ClassesAndMethods3\ClassesAndMethods3\obj\Debug\ClassesAndMethods3.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ClassesAndMethods3\ClassesAndMethods3\ClassesAndMethods3\obj\Debug\ClassesAndMethods3.pdb
