@@ -1,0 +1,7 @@
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ConstVar\ConstVar\ConstVar\bin\Debug\ConstVar.exe.config
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ConstVar\ConstVar\ConstVar\bin\Debug\ConstVar.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ConstVar\ConstVar\ConstVar\bin\Debug\ConstVar.pdb
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ConstVar\ConstVar\ConstVar\obj\Debug\ConstVar.csproj.AssemblyReference.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ConstVar\ConstVar\ConstVar\obj\Debug\ConstVar.csproj.CoreCompileInputs.cache
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ConstVar\ConstVar\ConstVar\obj\Debug\ConstVar.exe
+C:\Users\Freliz\Desktop\Basic_C#_Programs\ConstVar\ConstVar\ConstVar\obj\Debug\ConstVar.pdb
